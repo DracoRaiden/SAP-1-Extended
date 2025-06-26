@@ -1,0 +1,110 @@
+$date
+	Wed May 07 00:39:27 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 8 ! ALU_Out [7:0] $end
+$var reg 8 " A [7:0] $end
+$var reg 4 # ALU_Sel [3:0] $end
+$var reg 8 $ B [7:0] $end
+$scope module uut $end
+$var wire 8 % A [7:0] $end
+$var wire 4 & ALU_Sel [3:0] $end
+$var wire 8 ' B [7:0] $end
+$var reg 8 ( ALU_Out [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b10000 (
+b1 '
+b0 &
+b1111 %
+b1 $
+b0 #
+b1111 "
+b10000 !
+$end
+#10
+b1110 !
+b1110 (
+b1 #
+b1 &
+#20
+b1 !
+b1 (
+b10 #
+b10 &
+#30
+b1111 !
+b1111 (
+b11 #
+b11 &
+#40
+b11111110 !
+b11111110 (
+b100 #
+b100 &
+#50
+b1110 !
+b1110 (
+b101 #
+b101 &
+#60
+b11110000 !
+b11110000 (
+b110 #
+b110 &
+#70
+b111 #
+b111 &
+#80
+b11110001 !
+b11110001 (
+b1000 #
+b1000 &
+#90
+b10000 !
+b10000 (
+b1001 #
+b1001 &
+#100
+b10001 !
+b10001 (
+b1010 #
+b1010 &
+#110
+b1111 !
+b1111 (
+b1011 #
+b1011 &
+#120
+b1 !
+b1 (
+b1100 #
+b1100 &
+#130
+b0 !
+b0 (
+b1101 #
+b1101 &
+#140
+b11111111 !
+b11111111 (
+b1110 #
+b1110 &
+#150
+b11110000 !
+b11110000 (
+b1111 #
+b1111 &
+#160
